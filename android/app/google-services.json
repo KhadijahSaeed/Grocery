@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1038344998338",
+    "project_id": "grocery-mart-8700e",
+    "storage_bucket": "grocery-mart-8700e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038344998338:android:3aac962807212854121a5b",
+        "android_client_info": {
+          "package_name": "com.example.my_apps1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038344998338-p557401qgv9vckpoqqr2l53luc56g1nm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp1GFr-WdI9YlG48WLCYw_TfmNx5DSj_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038344998338-p557401qgv9vckpoqqr2l53luc56g1nm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
